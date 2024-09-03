@@ -1,0 +1,209 @@
+[
+  {
+    "Model ID": 100000001,
+    "Model Name": "Armadillo",
+    "Image": "data/armadillo.png",
+    "Original File": "data/armadillo.",
+    "object": "data/armadillo.obj",
+    "Source": "[Stanford](http://graphics.stanford.edu/data/3Dscanrep/)",
+    "First Known Appearance": "[dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/KrishnamurthyL96)"
+  },
+  {
+    "Model ID": 100000002,
+    "Model Name": "Beast",
+    "Image": "data/beast.png)",
+    "Original File": "data/beast.",
+    "object": "data/beast.obj",
+    "Source": "Autodesk",
+    "First Known Appearance": "[dblp](https://dblp.uni-trier.de/rec/bibtex/journals/cgf/WeberSLG07)"
+  },
+  {
+    "Model ID": 100000003,
+    "Model Name": "Beetle",
+    "Image": "data/beetle.png",
+    "Original File": "missing*(quad mesh?)",
+    "object": "data/beetle-alt.obj",
+    "Source": "[Ivan Sutherland](https://blenderartists.org/t/ivan-sutherlands-1972-mesh/1162769)",
+    "First Known Appearance": "missing"
+  },
+  {
+    "Model ID": 100000004,
+    "Model Name": "Cheburashka",
+    "Image": "data/cheburashka.png",
+    "Original File": "data/cheburashka.",
+    "object": "data/cheburashka.obj",
+    "Source": "Ilya Baran(?)",
+    "First Known Appearance": "[dblp](https://dblp.org/rec/bibtex/journals/tog/BaranP07)"
+  },
+  {
+    "Model ID": 100000005,
+    "Model Name": "Cow",
+    "Image": "data/cow.png",
+    "Original File": "data/cow.",
+    "object": "data/cow.obj",
+    "Source": "[Viewpoint Animation Engineering / Sun Microsystems](https://gfx.cs.princeton.edu/proj/sugcon/models/)",
+    "First Known Appearance": "[dblp](https://dblp.uni-trier.de/rec/bibtex/journals/tog/DeCarloFRS03)"
+  },
+  {
+    "Model ID": 100000006,
+    "Model Name": "Fandisk",
+    "Image": "data/fandisk.png",
+    "Original File": "[.m (Hoppe Mesh format)](data/fandisk.m)",
+    "object": "data/fandisk.obj",
+    "Source": "CAD part Pratt & Whitney/Hughes Hoppe",
+    "First Known Appearance": "[dblp](https://dblp.org/rec/conf/siggraph/HoppeDDHJMSS94.html)"
+  },
+  {
+    "Model ID": 100000007,
+    "Model Name": "Happy Buddha",
+    "Image": "data/happy.png",
+    "Original File": "data/happy.",
+    "object": "data/happy.obj",
+    "Source": "[Stanford](http://graphics.stanford.edu/data/3Dscanrep/)",
+    "First Known Appearance": "[dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/CurlessL96)"
+  },
+  {
+    "Model ID": 100000008,
+    "Model Name": "Horse",
+    "Image": "data/horse.png",
+    "Original File": "data/horse.",
+    "object": "data/horse.obj",
+    "Source": "[CyberWare](http://web.archive.org/web/20010126102500/https://www.cc.gatech.edu/projects/large_models/horse.html)",
+    "First Known Appearance": "[dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/PraunFH00)"
+  },
+  {
+    "Model ID": 100000009,
+    "Model Name": "Max Planck",
+    "Image": "data/max-planck.png",
+    "Original File": "missing ([not full res?](https://gfx.cs.princeton.edu/proj/sugcon/models/))",
+    "object": "data/max-planck.obj",
+    "Source": "[MPI](https://gfx.cs.princeton.edu/proj/sugcon/models/)",
+    "First Known Appearance": "missing"
+  },
+  {
+    "Model ID": 100000010,
+    "Model Name": "Nefertiti",
+    "Image": "data/nefertiti.png",
+    "Original File": "data/nefertiti.zip),[.z01](data/nefertiti.z01),[.z02](data/nefertiti.z02),[.z03](data/nefertiti.z03),[.z04](data/nefertiti.z04)",
+    "object": "data/nefertiti.obj",
+    "Source": "[Berlin Egyptian Museum](https://www.thingiverse.com/thing:3974391)",
+    "First Known Appearance": "missing"
+  },
+  {
+    "Model ID": 100000011,
+    "Model Name": "Ogre",
+    "Image": "data/ogre.png",
+    "Original File": "data/ogre.",
+    "object": "data/ogre.obj",
+    "Source": "Kiaran Ritchie",
+    "First Known Appearance": "[dblp](https://dblp.uni-trier.de/rec/bibtex/journals/tog/LipmanLC08)"
+  },
+  {
+    "Model ID": 100000012,
+    "Model Name": "Rocker Arm",
+    "Image": "data/rocker-arm.png",
+    "Original File": "data/rocker-arm.zip)*",
+    "object": "data/rocker-arm.obj",
+    "Source": "[INRIA](http://visionair.ge.imati.cnr.it:8080/ontologies/shapes/search.jsp)* (does scan data exist?)",
+    "First Known Appearance": "missing"
+  },
+  {
+    "Model ID": 100000013,
+    "Model Name": "Spot",
+    "Image": "data/spot.png",
+    "Original File": "data/spot.",
+    "object": "data/spot.obj",
+    "Source": "[Keenan Crane](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository/#spot)",
+    "First Known Appearance": "missing"
+  },
+  {
+    "Model ID": 100000014,
+    "Model Name": "Stanford Bunny",
+    "Image": "data/stanford-bunny.png",
+    "Original File": "data/stanford-bunny.",
+    "object": "data/stanford-bunny.obj",
+    "Source": "[Stanford University](http://graphics.stanford.edu/data/3Dscanrep/)",
+    "First Known Appearance": "[dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/TurkL94)"
+  },
+  {
+    "Model ID": 100000015,
+    "Model Name": "Suzanne",
+    "Image": "data/suzanne.png",
+    "Original File": "data/suzanne.",
+    "object": "data/suzanne.obj",
+    "Source": "Blender",
+    "First Known Appearance": "missing"
+  },
+  {
+    "Model ID": 100000016,
+    "Model Name": "Teapot",
+    "Image": "data/teapot.png",
+    "Original File": "data/teapot.",
+    "object": "data/teapot.obj",
+    "Source": "[Martin Newell](ftp://ftp.funet.fi/pub/sci/graphics/packages/objects/teaset.tar.Z)",
+    "First Known Appearance": "missing"
+  },
+  {
+    "Model ID": 100000017,
+    "Model Name": "XYZ Dragon",
+    "Image": "data/xyzrgb_dragon.png",
+    "Original File": "data/xyzrgb_dragon.",
+    "object": "data/xyzrgb_dragon.obj",
+    "Source": "[Stanford](http://graphics.stanford.edu/data/3Dscanrep/)",
+    "First Known Appearance": "missing"
+  },
+  {
+    "Model ID": 100000018,
+    "Model Name": "Alligator",
+    "Image": "data/alligator.png",
+    "Original File": "data/alligator.",
+    "object": "data/alligator.obj",
+    "Source": "[Alec Jacobson](http://www.cs.toronto.edu/~jacobson/images/alec-jacobson-thesis-2013.pdf)",
+    "First Known Appearance": "[dblp](https://dblp.org/rec/bibtex/journals/tog/JacobsonBPS11)"
+  },
+  {
+    "Model ID": 100000019,
+    "Model Name": "Woody/Gingerbread Man",
+    "Image": "data/woody.png",
+    "Original File": "data/woody.",
+    "object": "data/woody.obj",
+    "Source": "Scott Schaefer",
+    "First Known Appearance": "[dblp](https://dblp.org/rec/bibtex/journals/tog/SchaeferMW06)"
+  },
+  {
+    "Model ID": 100000020,
+    "Model Name": "Lucy",
+    "Image": "data/lucy.png",
+    "Original File": "data/lucy.zip),[.z01](data/lucy.z01),[.z02](data/lucy.z02),[.z03](data/lucy.z03),[.z04](data/lucy.z04) ,[.z05](data/lucy.z05)",
+    "object": "data/lucy.obj",
+    "Source": "[Stanford University](http://graphics.stanford.edu/data/3Dscanrep/)",
+    "First Known Appearance": "missing"
+  },
+  {
+    "Model ID": 100000021,
+    "Model Name": "Bimba",
+    "Image": "data/bimba.png",
+    "Original File": "data/bimba.",
+    "object": "dat/bimba.obj",
+    "Source": "[Pierre Alliez, Marco Attene](http://visionair.ge.imati.cnr.it:8080/ontologies/shapes/view.jsp?id=278-Bimba_-_3.7_million_triangles)",
+    "First Known Appearance": "2005(?)"
+  },
+  {
+    "Model ID": 100000022,
+    "Model Name": "Igea",
+    "Image": "data/igea.png",
+    "Original File": "[.ply](data/igea.ply)",
+    "object": "data/igea.obj",
+    "Source": "Cyberware",
+    "First Known Appearance": "missing"
+  },
+  {
+    "Model ID": 100000023,
+    "Model Name": "Homer",
+    "Image": "data/homer.png",
+    "Original File": "data/homer.",
+    "object": "data/homer.obj",
+    "Source": "Unclear; Pierre Alliez sent this .zip, doesn't recall soucre",
+    "First Known Appearance": "missing"
+  }
+]

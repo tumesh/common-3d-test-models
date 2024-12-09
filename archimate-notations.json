@@ -839,4 +839,19 @@
     "ScaleFactor": 0.001,
     "Materials": "DebugFace"
   }
+  ,
+  {
+    "ModelID": 200000060,
+    "ModelName": "Model House-206",
+    "Documentation": "Represents an explicitly defined exposed technology behavior.",
+    "Type": "technology-service",
+    "Image": "https://pubs.opengroup.org/architecture/archimate3-doc/images/3d-model/FloorPlan-M.PNG",
+    "Grouping": "Technology ",
+    "OriginalFile": "",
+    "object": "3d-model/206-House.fbx",
+    "Source": "",
+    "FirstKnownAppearance": "",
+    "ScaleFactor": 0.001,
+    "Materials": "DebugFace"
+  }
  ]

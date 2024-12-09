@@ -8,7 +8,7 @@ Please submit an [issues](https://github.com/alecjacobson/common-3d-test-models/
 
 | Model Name | Image | Original File | ~10MB .obj | Source | First Known Appearance |
 |------------|-------|---------------|------------|--------|--------|
-| 206-House | ![](3d-model/206-House.png) | [.zip](3d-model/206-House.zip) | [.obj](3d-model/206-House.obj) | [Stanford](http://graphics.stanford.edu/data/3Dscanrep/) | [dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/KrishnamurthyL96) 
+| 206-House | ![](3d-model/FloorPlan-M.png) | [.zip](3d-model/206-House.zip) | [.obj](3d-model/206-House.obj) | [Stanford](http://graphics.stanford.edu/data/3Dscanrep/) | [dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/KrishnamurthyL96) 
 | Armadillo | ![](data/armadillo.png) | [.zip](data/armadillo.zip) | [.obj](data/armadillo.obj) | [Stanford](http://graphics.stanford.edu/data/3Dscanrep/) | [dblp](https://dblp.uni-trier.de/rec/bibtex/conf/siggraph/KrishnamurthyL96) |
 | Beast | ![](data/beast.png)| [.zip](data/beast.zip) | [.obj](data/beast.obj) | Autodesk | [dblp](https://dblp.uni-trier.de/rec/bibtex/journals/cgf/WeberSLG07) |
 | Beetle | ![](data/beetle.png) | missing*(quad mesh?) | [.obj](data/beetle.obj), [common alt .obj](data/beetle-alt.obj) | [Ivan Sutherland](https://blenderartists.org/t/ivan-sutherlands-1972-mesh/1162769) | missing |
